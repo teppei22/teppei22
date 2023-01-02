@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teppei22&label=Profile%20views&color=0e75b6&style=flat" alt="teppei22" /> </p>
 
-- 📝 I regularly write articles on [zenn](https://zenn.dev)
+- 📝 I regularly write articles on [zenn](https://zenn.dev/tetuf22)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teppei22&show_icons=true&locale=en&layout=compact" alt="teppei22" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teppei22&show_icons=true&locale=en" alt="teppei22" /></p>
