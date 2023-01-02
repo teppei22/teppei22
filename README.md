@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi There</h1>
-<h3 align="center">A developer in Japan</h3>
+<h3 align="center">A software engineer in Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teppei22&label=Profile%20views&color=0e75b6&style=flat" alt="teppei22" /> </p>
 
